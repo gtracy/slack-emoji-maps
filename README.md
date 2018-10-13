@@ -9,8 +9,8 @@ This is pretty hacky and for reasons that aren't totally clear, does not scale w
 The code assumes you have a CSV that discribes each user's emoji use. Take a look at reactions_by_user.csv for a sample. Note that there is an assumption right now that the list is ordered for each user. Someone should fix this. ;)
 
 ## Let it rip
-    ```npm install```
-    ```npm start```
+    > npm install
+    > npm start
 
 Output png files are in the results folder
 
